@@ -2,6 +2,10 @@
 
 A comprehensive dashboard application that visualizes student performance data across various metrics including attendance, subject performance, grade distribution, and quiz vs exam comparisons.
 
+Julongbayan, Jeyze D.
+Levita, Vince Howard C.
+Reyes, Andrei L.
+
 ## Features
 
 ### 1. Interactive Dashboard
