@@ -7,7 +7,7 @@ A comprehensive dashboard application that visualizes student performance data a
 ### 1. Interactive Dashboard
 
 - Real-time data visualization
-- Responsive design (2 cards per row on desktop/tablet, 1 card on mobile)
+- Responsive design
 - Dark/Light mode support
 - Interactive charts with hover effects
 
